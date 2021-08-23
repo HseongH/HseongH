@@ -1,1 +1,9 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D67C8&title_bg=%23555555&icon=react.svg&icon_color=%23E7E7E7&title=React&edge_flat=false)](https://hits.seeyoufarm.com)
+![GitHub followers](https://img.shields.io/github/followers/HseongH?style=social)
+
+# 🧐 HseongH
+
+## ⚒ Stack
+
+![GitHub followers](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript)
+![GitHub followers](https://img.shields.io/badge/-React-blue?style=plastic&logo=react)
+![GitHub followers](https://img.shields.io/badge/-Redux-ff69b4?style=plastic&logo=redux)
